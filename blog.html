@@ -5,7 +5,8 @@ subtitle:
 ---
 
 {% for post in site.posts %}
-	<h2 class="major">{{ post.title }}</h2>
+	<!-- <h2 class="major">{{ post.title }}</h2> -->
+	<h2 class="major"><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	{{ post.content }}
 	<!-- 
 		This will add a link to the post title
