@@ -1,0 +1,18 @@
+---
+layout: default 
+title: blog
+subtitle: 
+---
+
+{% for post in site.posts %}
+	<h2 class="major">{{ post.title }}</h2>
+	{{ post.content }}
+	<!-- 
+		This will add a link to the post title
+		and show a snippet of the blog post.
+		Once we're able to format the single post
+		layout, we'll update how the post displays.
+	-->
+	<!-- <h2 class="major"><a href="{{ post.url }}">{{ post.title }}</a></h2> -->
+	<!-- {{ post.excerpt }} -->
+{% endfor %}
