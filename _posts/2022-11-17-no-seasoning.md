@@ -1,5 +1,6 @@
 ---
 layout: post
+subtitle: lemon pepper wet?
 ---
 
 The fun part about building a website is the journey to figure it out. This also gives me active problems to solve to stretch my knowledge of HTML/CSS/JS and how they work together. I have the gist on Jekyll and GitHub pages, but currently I can't get my site to render blog posts properly. At the moment the homepage and the blog page are behaving as they should, but check this out...
