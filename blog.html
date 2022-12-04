@@ -7,7 +7,8 @@ subtitle: What I hear, I forget. What I see, I remember. What I do, I understand
 {% for post in site.posts %}
 	<!-- <h2 class="major">{{ post.title }}</h2> -->
 	<h2 class="major"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-	{{ post.content }}
+	{{ post.excerpt }}
+	
 	<!-- 
 		This will add a link to the post title
 		and show a snippet of the blog post.
@@ -15,5 +16,5 @@ subtitle: What I hear, I forget. What I see, I remember. What I do, I understand
 		layout, we'll update how the post displays.
 	-->
 	<!-- <h2 class="major"><a href="{{ post.url }}">{{ post.title }}</a></h2> -->
-	<!-- {{ post.excerpt }} -->
+	<!-- {{ post.content }} -->
 {% endfor %}
