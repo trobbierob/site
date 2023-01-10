@@ -5,7 +5,7 @@ subtitle: no business like the testing business
 
 | Description  | Reward  |
 |---|---|
-| Completed training test case for credit card  | $7  |
+| Completed training test case for a credit card  | $7  |
 | Created a bug report for missing icons on a webpage | $1.50  |
 | Completed test case for a biometric app  | $40  |
 | Completed a test case for a DNS check | $4 |
