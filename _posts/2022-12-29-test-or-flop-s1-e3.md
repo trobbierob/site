@@ -25,4 +25,4 @@ Before this gets too long, I did want to say I was learning about invalid email 
 I still haven't come across a big bug, but I'm taking it one day at a time.
 
 
-$223.50 down, $776.50 to go. Time to file another bug report.
+$223.50 down, $776.50 to go. Time to file another bug report!
