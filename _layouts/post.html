@@ -12,8 +12,14 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="/assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
 	</head>
 	<body class="is-preload">
+
+		<pre><code class="language-mermaid">graph LR
+			A--&gt;B</code></pre>
+			<div class="mermaid">graph LR
+			A--&gt;B</div>
 
 		<!-- Page Wrapper -->
 			<div id="page-wrapper">
@@ -45,6 +51,18 @@
 			<script src="/assets/js/util.js"></script>
 			<script src="/assets/js/main.js"></script>
         
-
 	</body>
+	<script>
+		var config = {
+			startOnLoad:true,
+			theme: 'forest',
+			flowchart:{
+					useMaxWidth:false,
+					htmlLabels:true
+				}
+		};
+		mermaid.initialize(config);
+		window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+		</script>
+
 </html
