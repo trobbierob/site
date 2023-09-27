@@ -11,7 +11,7 @@ It was a very simple shop with just a few items. I didn't see the size shirt I w
 
 |                                       |
 |:-------------------------------------:|
-| ![discounted cart 1](https://res.cloudinary.com/dth7bq3kd/image/upload/f_auto,q_auto/v1/blog/coupon%20codes/pihc74kikqxbuddsz1ub) | ![discounted cart 2](https://res.cloudinary.com/dth7bq3kd/image/upload/f_auto,q_auto/v1/blog/coupon%20codes/vpdfdtobhc89kdi9mz5n) |
+| ![discounted cart 1](https://res.cloudinary.com/dth7bq3kd/image/upload/f_auto,q_auto/v1/blog/coupon%20codes/pihc74kikqxbuddsz1ub =250x) | ![discounted cart 2](https://res.cloudinary.com/dth7bq3kd/image/upload/f_auto,q_auto/v1/blog/coupon%20codes/vpdfdtobhc89kdi9mz5n =150x) |
 
 
 As it turns out the code actually discounted everything in the cart. I could've received $500 worth (or more) of clothing for the low low price of $0. Why can't I find coupons like this for Amazon or Sallie Mae? Could you imagine having a coupon code for student loans? What a dream.
