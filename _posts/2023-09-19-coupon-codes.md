@@ -9,9 +9,9 @@ To join the giveaway, all one needed to do was to be a part of the first 'x' amo
 
 It was a very simple shop with just a few items. I didn't see the size shirt I wanted, and I don't typically wear hats, but I figured, "It's free", so whatever I'll get a hat. The shirts, the hats and the other items were all different prices so I was curious as to what the code was good for. Would it simply knock off one item from the total? Was there a dollar amount associated with it? Since I'm doing all of this testing, I figured I'd see what was what.
 
-|                                       |
-|:-------------------------------------:|
-| ![discounted cart 1](https://res.cloudinary.com/dth7bq3kd/image/upload/f_auto,q_auto/v1/blog/coupon%20codes/pihc74kikqxbuddsz1ub =250x) | ![discounted cart 2](https://res.cloudinary.com/dth7bq3kd/image/upload/f_auto,q_auto/v1/blog/coupon%20codes/vpdfdtobhc89kdi9mz5n =150x) |
+|                                       |                                       |
+|:-------------------------------------:|:-------------------------------------:|
+| ![discounted cart 1](https://res.cloudinary.com/dth7bq3kd/image/upload/f_auto,q_auto/v1/blog/coupon%20codes/pihc74kikqxbuddsz1ub | width=100) | ![discounted cart 2](https://res.cloudinary.com/dth7bq3kd/image/upload/f_auto,q_auto/v1/blog/coupon%20codes/vpdfdtobhc89kdi9mz5n | width=200) |
 
 
 As it turns out the code actually discounted everything in the cart. I could've received $500 worth (or more) of clothing for the low low price of $0. Why can't I find coupons like this for Amazon or Sallie Mae? Could you imagine having a coupon code for student loans? What a dream.
