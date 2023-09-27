@@ -16,7 +16,7 @@ It was a very simple shop with just a few items. I didn't see the size shirt I w
 
 As it turns out the code actually discounted everything in the cart. I could've received $500 worth (or more) of clothing for the low low price of $0. Why can't I find coupons like this for Amazon or Sallie Mae? Could you imagine having a coupon code for student loans? What a dream.
 
-![notifying vendor](https://res.cloudinary.com/dth7bq3kd/image/upload/f_auto,q_auto/v1/blog/coupon%20codes/yzg3s9car3amj6z7pqrr)
+![notifying vendor](https://res.cloudinary.com/dth7bq3kd/image/upload/f_auto,q_auto/v1/blog/coupon%20codes/r00rsudriqwov3ma9ydc)
 
 Now, once I discovered it, I told them right away and they fixed it right away as well. Talk about a close call. I'll consider this making my goal of finding my first big flaw. Now, I did put a hat and a shirt in my cart as a reward, so we'll see what happens when it arrives.
 
